@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Hüseyin Cahit Hamamcıoğlu
 - 🌍 I'm based in Burdur, Turkey
-- 🌱 I’m currently learning Node.js 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 You can reach me hchamamcioglu@gmail.com
 
